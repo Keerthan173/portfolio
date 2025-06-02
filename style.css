@@ -344,3 +344,27 @@ footer a:hover {
     font-size: 1rem;
   }
 }
+
+#uhv {
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 30px;
+  background-color: #e6f9f4;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+#uhv h2 {
+  color: #00cc99;
+  font-size: 2rem;
+  border-bottom: 2px solid #00cc99;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+#uhv p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #333;
+  margin-bottom: 15px;
+}
